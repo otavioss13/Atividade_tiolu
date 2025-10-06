@@ -17,7 +17,7 @@ Game.agf.bak
 backup_acsprset.spr
 
 # Memory dumps
-*.dmp
+*.dmppp
 
 # Temporary files
 # temporarily created during sprite or room background compression
@@ -29,3 +29,6 @@ game28.dta
 
 # Log files
 warnings.log
+
+
+Modificando
